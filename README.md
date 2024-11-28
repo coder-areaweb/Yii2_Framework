@@ -1,5 +1,5 @@
 # Блог на Framework Yii2
-![Logo](https://github.com/coder-areaweb/Yii2_Framework/blob/main//Yii framework.png)
+![Logo](https://github.com/coder-areaweb/Yii2_Framework/blob/main/Yii framework.png)
 
 ### Описание курса:
 В данном курсе рассмотрим:
